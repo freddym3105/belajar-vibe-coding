@@ -13,3 +13,5 @@ bun dev
 ```
 
 See `issue.md` for the original planning details.
+ 
+Note: this commit contains high-level scaffolding only; implementers must finish configuration and run `bun install` before running the server.
